@@ -12,7 +12,7 @@
   about_mim = {
   "pronouns": "he" | "him",
   "languages": [Python, C/C++, Lua, Typescript, HTML, CSS,, Java, Go],
-  "tools": [Redis, Docker,Kong],
+  "tools": [Redis, Docker, Kong],
   "architecture": ["microservices", "event-driven"]
 }
 ```
