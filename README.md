@@ -12,7 +12,7 @@
   about_mim = {
   "Pronouns": "he" | "him",
   "Languages": [Python, C/C++, Dart, Lua, Typescript, HTML, CSS, Go],
-"Frameworks" : [FastAPI, Django, Flutter, React]
+  "Frameworks" : [FastAPI, Django, Flutter, React],
   "Tools": [Redis, Docker, PostgreSQL, AWS, Websocket, Kong, RabbitMQ],
   "Architecture": ["microservices", "event-driven"]
 }
