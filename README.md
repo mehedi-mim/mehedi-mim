@@ -10,10 +10,11 @@
 
 ```javascript
   about_mim = {
-  "pronouns": "he" | "him",
-  "languages": [Python, C/C++, Lua, Typescript, HTML, CSS,, Java, Go],
-  "tools": [Redis, Docker, Kong],
-  "architecture": ["microservices", "event-driven"]
+  "Pronouns": "he" | "him",
+  "Languages": [Python, C/C++, Dart, Lua, Typescript, HTML, CSS, Go],
+"Frameworks" : [FastAPI, Django, Flutter, React]
+  "Tools": [Redis, Docker, PostgreSQL, AWS, Websocket, Kong, RabbitMQ],
+  "Architecture": ["microservices", "event-driven"]
 }
 ```
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
