@@ -13,7 +13,7 @@
   "Pronouns": "he" | "him",
   "Languages": [Python, C/C++, Dart, Basic( Lua, Typescript, HTML, CSS)],
   "Frameworks" : [FastAPI, Flutter, Basic(Next.js)],
-  "Tools": [Redis, Docker, PostgreSQL, AWS, Stripe, Appsync,Basic(Websocket, Kong)],
+  "Tools": [Redis, Docker, PostgreSQL, AWS, Stripe, Appsync, Basic( Websocket, Kong)],
   "Design and Architecture": ["DDD", "microservices", "EDA"]
 }
 ```
